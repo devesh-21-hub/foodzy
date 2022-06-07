@@ -1,8 +1,8 @@
-# foodzy
+# Foodzy
 
 ## Food order app created using ReactJS.
 
-Open []() to view it in the browser.
+Open [https://foodzy-app.netlify.app/](https://foodzy-app.netlify.app/) to view it in the browser.
 
 ## Getting Started with Create React App
 
