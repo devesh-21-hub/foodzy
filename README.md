@@ -2,7 +2,7 @@
 
 ## Food order app created using ReactJS and Firebase.
 
-Open [https://foodzy-app.netlify.app/](https://foodzy-app.netlify.app/){:target="_blank"} to view it in the browser.
+Open [https://foodzy-app.netlify.app/](https://foodzy-app.netlify.app/){:target="\_blank"} to view it in the browser.
 
 ## Getting Started with Create React App
 
