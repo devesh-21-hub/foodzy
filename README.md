@@ -1,6 +1,6 @@
 # Foodzy
 
-## Food order app created using ReactJS.
+## Food order app created using ReactJS and Firebase.
 
 Open [https://foodzy-app.netlify.app/](https://foodzy-app.netlify.app/) to view it in the browser.
 
