@@ -2,7 +2,7 @@
 
 ## Food order app created using ReactJS.
 
-Open [https://food-0rder.netlify.app/](https://food-0rder.netlify.app/) to view it in the browser.
+Open []() to view it in the browser.
 
 ## Getting Started with Create React App
 
